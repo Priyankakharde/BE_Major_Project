@@ -1,4 +1,4 @@
-📊 Insightify – Smart Data Insights with Gemini AI 🧠
+📊**Insightify – Smart Data Insights with Gemini AI**🧠
 Welcome to Insightify, your AI-powered assistant for instantly visualizing and understanding your datasets! Built using Streamlit, Google Gemini API, and Plotly, this app transforms your CSV data into interactive and insightful visualizations – in seconds! 💡📈
 
 🚀 Features
